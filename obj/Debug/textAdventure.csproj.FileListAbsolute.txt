@@ -1,0 +1,7 @@
+/Users/mkline90/Projects/textAdventure/textAdventure/bin/Debug/textAdventure.exe
+/Users/mkline90/Projects/textAdventure/textAdventure/bin/Debug/textAdventure.pdb
+/Users/mkline90/Projects/textAdventure/textAdventure/obj/Debug/textAdventure.csprojAssemblyReference.cache
+/Users/mkline90/Projects/textAdventure/textAdventure/obj/Debug/textAdventure.exe
+/Users/mkline90/Projects/textAdventure/textAdventure/obj/Debug/textAdventure.pdb
+/Users/mkline90/Projects/textAdventure/textAdventure/bin/Debug/Colorful.Console.dll
+/Users/mkline90/Projects/textAdventure/textAdventure/obj/Debug/textAdventure.csproj.CopyComplete
